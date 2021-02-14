@@ -1,0 +1,20 @@
+C:\Users\samue\source\repos\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\bin\Debug\Casto-A2-StadiumSeating.exe.config
+C:\Users\samue\source\repos\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\bin\Debug\Casto-A2-StadiumSeating.exe
+C:\Users\samue\source\repos\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\bin\Debug\Casto-A2-StadiumSeating.pdb
+C:\Users\samue\source\repos\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto-A2-StadiumSeating.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto_A2_StadiumSeating.Form1.resources
+C:\Users\samue\source\repos\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto_A2_StadiumSeating.Properties.Resources.resources
+C:\Users\samue\source\repos\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto-A2-StadiumSeating.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto-A2-StadiumSeating.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto-A2-StadiumSeating.exe
+C:\Users\samue\source\repos\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto-A2-StadiumSeating.pdb
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\bin\Debug\Casto-A2-StadiumSeating.exe.config
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\bin\Debug\Casto-A2-StadiumSeating.exe
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\bin\Debug\Casto-A2-StadiumSeating.pdb
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto-A2-StadiumSeating.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto_A2_StadiumSeating.Form1.resources
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto_A2_StadiumSeating.Properties.Resources.resources
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto-A2-StadiumSeating.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto-A2-StadiumSeating.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto-A2-StadiumSeating.exe
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-A2-StadiumSeating\Casto-A2-StadiumSeating\obj\Debug\Casto-A2-StadiumSeating.pdb

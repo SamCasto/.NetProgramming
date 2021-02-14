@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casto_A1_Cards", "Casto_A1_Cards\Casto_A1_Cards.csproj", "{58B85AB4-CF23-4C26-B46A-B42159B369AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B85AB4-CF23-4C26-B46A-B42159B369AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B85AB4-CF23-4C26-B46A-B42159B369AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B85AB4-CF23-4C26-B46A-B42159B369AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B85AB4-CF23-4C26-B46A-B42159B369AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38937689-07BF-447D-883F-387A09D25323}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\Beginning .NET Lessons\.Casto_A1_FinishThis\Casto_A1_Cards\Casto_A1_Cards\bin\Debug\Casto_A1_Cards.exe.config
+C:\Users\samue\source\repos\Beginning .NET Lessons\.Casto_A1_FinishThis\Casto_A1_Cards\Casto_A1_Cards\bin\Debug\Casto_A1_Cards.exe
+C:\Users\samue\source\repos\Beginning .NET Lessons\.Casto_A1_FinishThis\Casto_A1_Cards\Casto_A1_Cards\bin\Debug\Casto_A1_Cards.pdb
+C:\Users\samue\source\repos\Beginning .NET Lessons\.Casto_A1_FinishThis\Casto_A1_Cards\Casto_A1_Cards\obj\Debug\Casto_A1_Cards.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\.Casto_A1_FinishThis\Casto_A1_Cards\Casto_A1_Cards\obj\Debug\Casto_A1_Cards.Properties.Resources.resources
+C:\Users\samue\source\repos\Beginning .NET Lessons\.Casto_A1_FinishThis\Casto_A1_Cards\Casto_A1_Cards\obj\Debug\Casto_A1_Cards.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\.Casto_A1_FinishThis\Casto_A1_Cards\Casto_A1_Cards\obj\Debug\Casto_A1_Cards.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\.Casto_A1_FinishThis\Casto_A1_Cards\Casto_A1_Cards\obj\Debug\Casto_A1_Cards.exe
+C:\Users\samue\source\repos\Beginning .NET Lessons\.Casto_A1_FinishThis\Casto_A1_Cards\Casto_A1_Cards\obj\Debug\Casto_A1_Cards.pdb
+C:\Users\samue\source\repos\Beginning .NET Lessons\.Casto_A1_FinishThis\Casto_A1_Cards\Casto_A1_Cards\obj\Debug\Casto_A1_Cards.cardIdentifier.resources

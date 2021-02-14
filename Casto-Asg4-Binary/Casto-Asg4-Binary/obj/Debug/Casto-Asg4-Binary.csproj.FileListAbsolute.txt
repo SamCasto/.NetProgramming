@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\Casto-Asg4-Binary\Casto-Asg4-Binary\bin\Debug\Casto-Asg4-Binary.exe.config
+C:\Users\samue\source\repos\Casto-Asg4-Binary\Casto-Asg4-Binary\bin\Debug\Casto-Asg4-Binary.exe
+C:\Users\samue\source\repos\Casto-Asg4-Binary\Casto-Asg4-Binary\bin\Debug\Casto-Asg4-Binary.pdb
+C:\Users\samue\source\repos\Casto-Asg4-Binary\Casto-Asg4-Binary\obj\Debug\Casto-Asg4-Binary.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Casto-Asg4-Binary\Casto-Asg4-Binary\obj\Debug\Casto_Asg4_Binary.Form1.resources
+C:\Users\samue\source\repos\Casto-Asg4-Binary\Casto-Asg4-Binary\obj\Debug\Casto_Asg4_Binary.Properties.Resources.resources
+C:\Users\samue\source\repos\Casto-Asg4-Binary\Casto-Asg4-Binary\obj\Debug\Casto-Asg4-Binary.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Casto-Asg4-Binary\Casto-Asg4-Binary\obj\Debug\Casto-Asg4-Binary.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Casto-Asg4-Binary\Casto-Asg4-Binary\obj\Debug\Casto-Asg4-Binary.exe
+C:\Users\samue\source\repos\Casto-Asg4-Binary\Casto-Asg4-Binary\obj\Debug\Casto-Asg4-Binary.pdb

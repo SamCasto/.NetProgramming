@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\Casto_A3_Robowarden\Casto_A3_Robowarden\obj\Debug\Casto_A3_Robowarden.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Casto_A3_Robowarden\Casto_A3_Robowarden\obj\Debug\Casto_A3_Robowarden.Form1.resources
+C:\Users\samue\source\repos\Casto_A3_Robowarden\Casto_A3_Robowarden\obj\Debug\Casto_A3_Robowarden.Properties.Resources.resources
+C:\Users\samue\source\repos\Casto_A3_Robowarden\Casto_A3_Robowarden\obj\Debug\Casto_A3_Robowarden.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Casto_A3_Robowarden\Casto_A3_Robowarden\obj\Debug\Casto_A3_Robowarden.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Casto_A3_Robowarden\Casto_A3_Robowarden\bin\Debug\Casto_A3_Robowarden.exe.config
+C:\Users\samue\source\repos\Casto_A3_Robowarden\Casto_A3_Robowarden\bin\Debug\Casto_A3_Robowarden.exe
+C:\Users\samue\source\repos\Casto_A3_Robowarden\Casto_A3_Robowarden\bin\Debug\Casto_A3_Robowarden.pdb
+C:\Users\samue\source\repos\Casto_A3_Robowarden\Casto_A3_Robowarden\obj\Debug\Casto_A3_Robowarden.exe
+C:\Users\samue\source\repos\Casto_A3_Robowarden\Casto_A3_Robowarden\obj\Debug\Casto_A3_Robowarden.pdb
