@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\Casto-Asg8-Sales\Casto-Asg8-Sales\bin\Debug\Casto-Asg8-Sales.exe.config
+C:\Users\samue\source\repos\Casto-Asg8-Sales\Casto-Asg8-Sales\bin\Debug\Casto-Asg8-Sales.exe
+C:\Users\samue\source\repos\Casto-Asg8-Sales\Casto-Asg8-Sales\bin\Debug\Casto-Asg8-Sales.pdb
+C:\Users\samue\source\repos\Casto-Asg8-Sales\Casto-Asg8-Sales\obj\Debug\Casto-Asg8-Sales.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Casto-Asg8-Sales\Casto-Asg8-Sales\obj\Debug\Casto_Asg8_Sales.Form1.resources
+C:\Users\samue\source\repos\Casto-Asg8-Sales\Casto-Asg8-Sales\obj\Debug\Casto_Asg8_Sales.Properties.Resources.resources
+C:\Users\samue\source\repos\Casto-Asg8-Sales\Casto-Asg8-Sales\obj\Debug\Casto-Asg8-Sales.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Casto-Asg8-Sales\Casto-Asg8-Sales\obj\Debug\Casto-Asg8-Sales.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Casto-Asg8-Sales\Casto-Asg8-Sales\obj\Debug\Casto-Asg8-Sales.exe
+C:\Users\samue\source\repos\Casto-Asg8-Sales\Casto-Asg8-Sales\obj\Debug\Casto-Asg8-Sales.pdb

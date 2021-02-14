@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casto-Asg8-Sales", "Casto-Asg8-Sales\Casto-Asg8-Sales.csproj", "{46FBB6A4-2AF9-44F4-87EC-D1F0A07F2449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46FBB6A4-2AF9-44F4-87EC-D1F0A07F2449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FBB6A4-2AF9-44F4-87EC-D1F0A07F2449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FBB6A4-2AF9-44F4-87EC-D1F0A07F2449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FBB6A4-2AF9-44F4-87EC-D1F0A07F2449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {042B4033-350F-4384-8735-485F6DA0EECE}
+	EndGlobalSection
+EndGlobal

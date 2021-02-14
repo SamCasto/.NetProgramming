@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\Casto-ASG5-Population\Casto-ASG5-Population\bin\Debug\Casto-ASG5-Population.exe.config
+C:\Users\samue\source\repos\Casto-ASG5-Population\Casto-ASG5-Population\bin\Debug\Casto-ASG5-Population.exe
+C:\Users\samue\source\repos\Casto-ASG5-Population\Casto-ASG5-Population\bin\Debug\Casto-ASG5-Population.pdb
+C:\Users\samue\source\repos\Casto-ASG5-Population\Casto-ASG5-Population\obj\Debug\Casto-ASG5-Population.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Casto-ASG5-Population\Casto-ASG5-Population\obj\Debug\Casto_ASG5_Population.Form1.resources
+C:\Users\samue\source\repos\Casto-ASG5-Population\Casto-ASG5-Population\obj\Debug\Casto_ASG5_Population.Properties.Resources.resources
+C:\Users\samue\source\repos\Casto-ASG5-Population\Casto-ASG5-Population\obj\Debug\Casto-ASG5-Population.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Casto-ASG5-Population\Casto-ASG5-Population\obj\Debug\Casto-ASG5-Population.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Casto-ASG5-Population\Casto-ASG5-Population\obj\Debug\Casto-ASG5-Population.exe
+C:\Users\samue\source\repos\Casto-ASG5-Population\Casto-ASG5-Population\obj\Debug\Casto-ASG5-Population.pdb

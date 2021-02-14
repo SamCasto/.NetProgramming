@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\Casto-Asg7-RPS\Casto-Asg7-RPS\bin\Debug\Casto-Asg7-RPS.exe.config
+C:\Users\samue\source\repos\Casto-Asg7-RPS\Casto-Asg7-RPS\bin\Debug\Casto-Asg7-RPS.exe
+C:\Users\samue\source\repos\Casto-Asg7-RPS\Casto-Asg7-RPS\bin\Debug\Casto-Asg7-RPS.pdb
+C:\Users\samue\source\repos\Casto-Asg7-RPS\Casto-Asg7-RPS\obj\Debug\Casto-Asg7-RPS.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Casto-Asg7-RPS\Casto-Asg7-RPS\obj\Debug\Casto_Asg7_RPS.Form1.resources
+C:\Users\samue\source\repos\Casto-Asg7-RPS\Casto-Asg7-RPS\obj\Debug\Casto_Asg7_RPS.Properties.Resources.resources
+C:\Users\samue\source\repos\Casto-Asg7-RPS\Casto-Asg7-RPS\obj\Debug\Casto-Asg7-RPS.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Casto-Asg7-RPS\Casto-Asg7-RPS\obj\Debug\Casto-Asg7-RPS.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Casto-Asg7-RPS\Casto-Asg7-RPS\obj\Debug\Casto-Asg7-RPS.exe
+C:\Users\samue\source\repos\Casto-Asg7-RPS\Casto-Asg7-RPS\obj\Debug\Casto-Asg7-RPS.pdb

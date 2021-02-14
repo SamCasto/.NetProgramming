@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\Casto-Asg6-JoesAutomotive\Casto-Asg6-JoesAutomotive\bin\Debug\Casto-Asg6-JoesAutomotive.exe.config
+C:\Users\samue\source\repos\Casto-Asg6-JoesAutomotive\Casto-Asg6-JoesAutomotive\bin\Debug\Casto-Asg6-JoesAutomotive.exe
+C:\Users\samue\source\repos\Casto-Asg6-JoesAutomotive\Casto-Asg6-JoesAutomotive\bin\Debug\Casto-Asg6-JoesAutomotive.pdb
+C:\Users\samue\source\repos\Casto-Asg6-JoesAutomotive\Casto-Asg6-JoesAutomotive\obj\Debug\Casto-Asg6-JoesAutomotive.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Casto-Asg6-JoesAutomotive\Casto-Asg6-JoesAutomotive\obj\Debug\Casto_Asg6_JoesAutomotive.Form1.resources
+C:\Users\samue\source\repos\Casto-Asg6-JoesAutomotive\Casto-Asg6-JoesAutomotive\obj\Debug\Casto_Asg6_JoesAutomotive.Properties.Resources.resources
+C:\Users\samue\source\repos\Casto-Asg6-JoesAutomotive\Casto-Asg6-JoesAutomotive\obj\Debug\Casto-Asg6-JoesAutomotive.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Casto-Asg6-JoesAutomotive\Casto-Asg6-JoesAutomotive\obj\Debug\Casto-Asg6-JoesAutomotive.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Casto-Asg6-JoesAutomotive\Casto-Asg6-JoesAutomotive\obj\Debug\Casto-Asg6-JoesAutomotive.exe
+C:\Users\samue\source\repos\Casto-Asg6-JoesAutomotive\Casto-Asg6-JoesAutomotive\obj\Debug\Casto-Asg6-JoesAutomotive.pdb
