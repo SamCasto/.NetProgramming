@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\Casto-Asg11-Structures\Casto-Asg11-Structures\bin\Debug\Casto-Asg11-Structures.exe.config
+C:\Users\samue\source\repos\Casto-Asg11-Structures\Casto-Asg11-Structures\bin\Debug\Casto-Asg11-Structures.exe
+C:\Users\samue\source\repos\Casto-Asg11-Structures\Casto-Asg11-Structures\bin\Debug\Casto-Asg11-Structures.pdb
+C:\Users\samue\source\repos\Casto-Asg11-Structures\Casto-Asg11-Structures\obj\Debug\Casto-Asg11-Structures.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Casto-Asg11-Structures\Casto-Asg11-Structures\obj\Debug\Casto_Asg11_Structures.Form1.resources
+C:\Users\samue\source\repos\Casto-Asg11-Structures\Casto-Asg11-Structures\obj\Debug\Casto_Asg11_Structures.Properties.Resources.resources
+C:\Users\samue\source\repos\Casto-Asg11-Structures\Casto-Asg11-Structures\obj\Debug\Casto-Asg11-Structures.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Casto-Asg11-Structures\Casto-Asg11-Structures\obj\Debug\Casto-Asg11-Structures.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Casto-Asg11-Structures\Casto-Asg11-Structures\obj\Debug\Casto-Asg11-Structures.exe
+C:\Users\samue\source\repos\Casto-Asg11-Structures\Casto-Asg11-Structures\obj\Debug\Casto-Asg11-Structures.pdb
