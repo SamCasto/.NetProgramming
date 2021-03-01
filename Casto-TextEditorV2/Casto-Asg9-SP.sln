@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casto-Asg9-SP", "Casto-Asg9-SP\Casto-Asg9-SP.csproj", "{1278B011-1120-4059-A136-79A3735E3079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1278B011-1120-4059-A136-79A3735E3079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1278B011-1120-4059-A136-79A3735E3079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1278B011-1120-4059-A136-79A3735E3079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1278B011-1120-4059-A136-79A3735E3079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC92F02C-DBCD-40DB-B850-629D5DF5C00C}
+	EndGlobalSection
+EndGlobal

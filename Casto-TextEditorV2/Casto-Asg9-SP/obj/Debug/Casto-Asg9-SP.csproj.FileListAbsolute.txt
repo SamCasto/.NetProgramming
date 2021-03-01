@@ -1,0 +1,30 @@
+C:\Users\samue\source\repos\Casto-Asg9-SP\Casto-Asg9-SP\bin\Debug\Casto-Asg9-SP.exe.config
+C:\Users\samue\source\repos\Casto-Asg9-SP\Casto-Asg9-SP\bin\Debug\Casto-Asg9-SP.exe
+C:\Users\samue\source\repos\Casto-Asg9-SP\Casto-Asg9-SP\bin\Debug\Casto-Asg9-SP.pdb
+C:\Users\samue\source\repos\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto_Asg9_SP.Form1.resources
+C:\Users\samue\source\repos\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto_Asg9_SP.Properties.Resources.resources
+C:\Users\samue\source\repos\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.exe
+C:\Users\samue\source\repos\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.pdb
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg9-SP\Casto-Asg9-SP\bin\Debug\Casto-Asg9-SP.exe.config
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg9-SP\Casto-Asg9-SP\bin\Debug\Casto-Asg9-SP.exe
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg9-SP\Casto-Asg9-SP\bin\Debug\Casto-Asg9-SP.pdb
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto_Asg9_SP.Form1.resources
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto_Asg9_SP.Properties.Resources.resources
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.exe
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg9-SP\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.pdb
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-TextEditorV2\Casto-Asg9-SP\bin\Debug\Casto-Asg9-SP.exe.config
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-TextEditorV2\Casto-Asg9-SP\bin\Debug\Casto-Asg9-SP.exe
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-TextEditorV2\Casto-Asg9-SP\bin\Debug\Casto-Asg9-SP.pdb
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-TextEditorV2\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-TextEditorV2\Casto-Asg9-SP\obj\Debug\Casto_Asg9_SP.frmTextEditor.resources
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-TextEditorV2\Casto-Asg9-SP\obj\Debug\Casto_Asg9_SP.Properties.Resources.resources
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-TextEditorV2\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-TextEditorV2\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-TextEditorV2\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.exe
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-TextEditorV2\Casto-Asg9-SP\obj\Debug\Casto-Asg9-SP.pdb

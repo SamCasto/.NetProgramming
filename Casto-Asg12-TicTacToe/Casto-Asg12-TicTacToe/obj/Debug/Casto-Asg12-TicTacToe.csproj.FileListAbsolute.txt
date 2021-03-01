@@ -1,0 +1,20 @@
+C:\Users\samue\source\repos\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\bin\Debug\Casto-Asg12-TicTacToe.exe.config
+C:\Users\samue\source\repos\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\bin\Debug\Casto-Asg12-TicTacToe.exe
+C:\Users\samue\source\repos\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\bin\Debug\Casto-Asg12-TicTacToe.pdb
+C:\Users\samue\source\repos\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto-Asg12-TicTacToe.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto_Asg12_TicTacToe.Form1.resources
+C:\Users\samue\source\repos\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto_Asg12_TicTacToe.Properties.Resources.resources
+C:\Users\samue\source\repos\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto-Asg12-TicTacToe.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto-Asg12-TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto-Asg12-TicTacToe.exe
+C:\Users\samue\source\repos\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto-Asg12-TicTacToe.pdb
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\bin\Debug\Casto-Asg12-TicTacToe.exe.config
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\bin\Debug\Casto-Asg12-TicTacToe.exe
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\bin\Debug\Casto-Asg12-TicTacToe.pdb
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto-Asg12-TicTacToe.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto_Asg12_TicTacToe.Form1.resources
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto_Asg12_TicTacToe.Properties.Resources.resources
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto-Asg12-TicTacToe.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto-Asg12-TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto-Asg12-TicTacToe.exe
+C:\Users\samue\source\repos\Beginning .NET Lessons\Casto-Asg12-TicTacToe\Casto-Asg12-TicTacToe\obj\Debug\Casto-Asg12-TicTacToe.pdb
