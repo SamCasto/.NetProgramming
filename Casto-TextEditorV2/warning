@@ -1,0 +1,4 @@
+Currently some functionality of the text editor does not work. The sorting without dupes function does not work for sure, and currently I have not added code to allow you to add
+line breaks or tabs with the add text function. The undo redo aspect works which should help solve most problems currently.
+
+I plan on updating and fixing this over spring break in a few weeks with my time off from school.
